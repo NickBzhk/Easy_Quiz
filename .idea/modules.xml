@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Skillbox_hw_quiz.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy_Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Skillbox_hw_quiz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Quiz.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Skillbox_hw_quiz.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Quiz.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Skillbox_hw_quiz.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Quiz.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Skillbox_hw_quiz.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Quiz.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/Skillbox_hw_quiz.testing.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/Easy_Quiz.testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/Skillbox_hw_quiz.testing.java.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/Easy_Quiz.testing.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/Skillbox_hw_quiz.testing.java.com.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/Easy_Quiz.testing.java.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/Skillbox_hw_quiz.testing.java.com.google.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/Easy_Quiz.testing.java.com.google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/Skillbox_hw_quiz.testing.java.com.google.android.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/Easy_Quiz.testing.java.com.google.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/Skillbox_hw_quiz.testing.java.com.google.android.material.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/Easy_Quiz.testing.java.com.google.android.material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/Skillbox_hw_quiz.testing.java.com.google.android.material.testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/Easy_Quiz.testing.java.com.google.android.material.testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/animation/Skillbox_hw_quiz.testing.java.com.google.android.material.testapp.animation.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/animation/Easy_Quiz.testing.java.com.google.android.material.testapp.animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/base/Skillbox_hw_quiz.testing.java.com.google.android.material.testapp.base.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/base/Easy_Quiz.testing.java.com.google.android.material.testapp.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/theme/Skillbox_hw_quiz.testing.java.com.google.android.material.testapp.theme.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/java/com/google/android/material/testapp/theme/Easy_Quiz.testing.java.com.google.android.material.testapp.theme.iml" />
+    </modules>
+  </component>
+</project>
