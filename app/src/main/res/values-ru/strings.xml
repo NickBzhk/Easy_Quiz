@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CONTINUE">ПРОДОЛЖИТЬ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Quiz">Опрос</string><string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="results">RESULTS</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="start_over">Начать заново</string>
+    <string name="begin">Начать</string>
+    <string name="break_button">ВЫХОД</string>
+    <string name="date_picker_title">Пожалуйста, укажите дату вашего рождения</string>
+    <string name="date_picker_dispayable_birthday">"Дата вашего рождения "</string>
+    <string name="date_picker_birthday_is_text">Дата вашего рожджения</string>
+</resources>

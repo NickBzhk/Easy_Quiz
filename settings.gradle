@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Skillbox_hw_quiz"
+include ':app'
+include ':testing:java:com:google:android:material:testapp:base'
+include ':testing:java:com:google:android:material:testapp:animation'
+include ':testing:java:com:google:android:material:testapp:theme'
+include ':testing:java:com:google:android:material:testapp'
+//include ':testing:java:com:google:android:material:testapp:custom'

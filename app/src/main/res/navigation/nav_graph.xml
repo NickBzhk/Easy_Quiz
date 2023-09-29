@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/welcomeFragment2">
+
+    <fragment
+        android:id="@+id/quizCardFragment"
+        android:name="com.example.easy_quiz.presentation.QuizFragment"
+        android:label="QuizCardFragment" >
+        <action
+            android:id="@+id/action_quizCardFragment_to_resultFragment"
+            app:destination="@id/resultFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:popUpTo="@id/welcomeFragment2"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_quizCardFragment_to_welcomeFragment2"
+            app:destination="@id/welcomeFragment2"
+            app:popUpTo="@id/welcomeFragment2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.example.easy_quiz.presentation.ResultFragment"
+        android:label="fragment_result"
+        tools:layout="@layout/fragment_result" >
+        <action
+            android:id="@+id/action_resultFragment_to_welcomeFragment2"
+            app:destination="@id/welcomeFragment2"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popUpTo="@id/welcomeFragment2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/welcomeFragment2"
+        android:name="com.example.easy_quiz.presentation.WelcomeFragment"
+        android:label="fragment_welcome_screen"
+        tools:layout="@layout/fragment_welcome" >
+        <action
+            android:id="@+id/action_welcomeFragment2_to_quizCardFragment"
+            app:destination="@id/quizCardFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popUpTo="@id/welcomeFragment2"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>
