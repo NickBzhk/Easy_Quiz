@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Skillbox_hw_quiz"
+rootProject.name = "Easy_Quiz"
 include ':app'
 include ':testing:java:com:google:android:material:testapp:base'
 include ':testing:java:com:google:android:material:testapp:animation'
